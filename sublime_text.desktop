@@ -1,5 +1,6 @@
 [Desktop Entry]
 Type=Application
+Name=Sublime Text 2
 Icon=<file path to icon>
 Exec=<file path to executable>
 Terminal=false
