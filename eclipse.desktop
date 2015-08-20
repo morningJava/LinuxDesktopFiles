@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse
+Icon=<local icon location>
+Exec= <location to> /eclipse
+Categories=Development;IDE;Java
