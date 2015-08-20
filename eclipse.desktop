@@ -3,4 +3,5 @@ Type=Application
 Name=Eclipse
 Icon=<local icon location>
 Exec= <location to> /eclipse
+Terminal=false
 Categories=Development;IDE;Java
