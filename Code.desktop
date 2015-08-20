@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name= Visual Studio Code
+Icon=<file path to icon>
+Exec=<file path to executable>
+Terminal=false
+Categories=Development;IDE;
