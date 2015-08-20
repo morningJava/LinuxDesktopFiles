@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Icon=<file path to icon>
+Exec=<file path to executable>
+Terminal=false
+Categories=Development;IDE;Python
