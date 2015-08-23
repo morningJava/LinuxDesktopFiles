@@ -1,0 +1,21 @@
+#! /bin/bash
+
+# usage: ./dotDesktop [nameOfApplication]
+
+# sets up a text enviroment forcreating .desktop files
+#when needed.
+
+echo "changing to .local/share/applications"
+cd ~/.local/share/applications
+echo "generating  file"
+touch $1.desktop
+echo "[Desktop Entry]" >> $1.desktop
+echo "Type=" >> $1.desktop
+echo "Name=" >> $1.desktop
+echo "Icon=" >> $1.desktop
+echo "Exec=" >> $1.desktop
+echo "Terminal=" >> $1.desktop
+echo "Categories=" >> $1.desktop
+echo "opening..."
+vim $1.desktop
+
