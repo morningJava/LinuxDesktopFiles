@@ -1,5 +1,5 @@
 # LinuxDesktopFiles
-.desktop files for a few apps when I get the urge to distro hop
+.desktop files for a few apps when I get the urge to hop Linux distributions. These files are required for certain applications to show up as applications in the GNOME desktop enviroment.
 
 
 code.desktop == Visual Studio Code
